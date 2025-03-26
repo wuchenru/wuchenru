@@ -2,12 +2,13 @@
 
 I'm **Chenru Wu**, an M.Sc. Computer Science graduate from **Northeastern University**.
 
-🚀 I’m actively seeking positions in the **software development** cycle, with a focus on **backend development**, though I’m open to other related areas as well.  
-🔭 Currently, I’m working on a **Customized Dify Platform**. I’ve also had experience at **Ansys** and **Generac Power Systems**.  
-🌱 I'm exploring **CyberSecurity** and **Quantitative Trading**.  
+🚀 Actively seeking positions in the **software development** cycle, focusing on **backend**, but open to other areas.  
+🔭 Currently working on a **Customized Dify Platform**, with previous experience at **Ansys** and **Generac Power Systems**.  
+🌱 Exploring **CyberSecurity** and **Quantitative Trading**.  
 ⚡ Fun fact: I love cherries but can't stand cherry-flavored foods.  
 
-🛠 I'm always eager to learn and contribute to exciting projects!
+🛠 Always eager to learn and contribute to exciting projects!
+
 
 <!--
 **wuchenru/wuchenru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

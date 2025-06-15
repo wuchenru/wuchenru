@@ -3,9 +3,8 @@
 I'm **Chenru Wu**, an M.Sc. Computer Science graduate from **Northeastern University**.
 
 🚀 Actively seeking positions in the **software development** cycle, focusing on **backend**, but open to other areas.  
-🔭 Currently working on a **Customized Dify Platform**, with previous experience at **Ansys** and **Generac Power Systems**.  
+🔭 Currently working as a Golang backend engineer, with previous experience at **Ansys** and **Generac Power Systems**.  
 🌱 Exploring **CyberSecurity** and **Quantitative Trading**.  
-⚡ Fun fact: I love cherries but can't stand cherry-flavored foods.  
 
 🛠 Always eager to learn and contribute to exciting projects!
 
